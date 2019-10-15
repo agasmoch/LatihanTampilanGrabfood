@@ -1,0 +1,12 @@
+Mengenal Platform (Modul Hari ke-2)
+-Karakteristik Mobile Device
+1. Portable 2. Berukuran Kecil 3. Wireless Communication 4. Memori Terbatas(RAM) 5. Virtual Assistant
+-Arsitektur Android (Android Terdiri dari tumpukan/layer perangkat luank linux
+1. Aplikasi (Home, Cpntact, Phone, Browser)
+2. Aplikasi Framework (Activity Manager, Window M, Contact Provider, View System)
+3. Android Runtime (Core Libaries, Dakvik Vitrual Machine)
+4. Libraries
+5. Kernel Linux
+-Faktor Memilih B. Programan
+1. Skill set dari developer 2. Jesekyryagab strategi developer aplikas (native,cross platform, hybrid) 3. Kebutuhan khusus aplikasi
+4. Sasaran pengguna Aplikasi dan support platform
